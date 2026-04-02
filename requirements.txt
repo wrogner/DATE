@@ -1,0 +1,18 @@
+# DATE required python libraries
+# install with
+#   pip install -U -r requirements.txt
+
+matplotlib          # visualization (the beast)
+numpy               # numeric calculations
+pandas              # python data manipulation
+
+jupyterlab          # jupyter lab
+ipywidgets          # for interactive jupyter notebooks
+
+scikit-learn        # the core
+statsmodels         # used for lowess in sns and time series analysis
+scipy               # used for time series analysis
+seaborn             # the beauty
+
+tqdm                # for longrunning processes
+pydot               # call graphviz (needs installing it locally from https://graphviz.org/)
