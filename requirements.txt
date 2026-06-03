@@ -16,3 +16,4 @@ seaborn             # the beauty
 
 tqdm                # for longrunning processes
 pydot               # call graphviz (needs installing it locally from https://graphviz.org/)
+xgboost             # for gradient boosting models
